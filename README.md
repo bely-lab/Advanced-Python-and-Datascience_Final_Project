@@ -8,7 +8,6 @@
 
 ## Project Data: 
 The dataset used for this project is the Mental Illness (OSMI) 2019 Survey dataset, which includes data on employee mental health status, their work environments, and other relevant features. you can find here: https://www.kaggle.com/osmihelp/datasets
-## Project Documentation:
 ### Project Overview
 This project aims to replicate the findings of the 2020 IEEE paper "Predicting Mental Health Disorders Using Machine Learning for Employees in Technical and Non-Technical Companies" by Rahul Katarya and Saurav Maan. The original paper explored the use of machine learning algorithms to predict mental health disorders among employees in both technical and non-technical companies. It used the (OSMI) Survey dataset to train and evaluate six machine learning models.
 The primary objectives of this replication project are to:
