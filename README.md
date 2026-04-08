@@ -46,7 +46,6 @@ The project follows these steps:
    - Measure performance using precision, recall, accuracy, and F1-score.
 3. Feature Importance Analysis:
    - Identify the most important features contributing to mental health disorders.
-   ![feature_importance image](image.png)
 4. Model Selection:
    - Train and evaluate seven models(The six models in the paper and one additional) including KNN, SVM, Random Forest,Decision tree, Naivebayes and XGBoost.
    
